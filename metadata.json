@@ -1,0 +1,6 @@
+{
+  "name": "Assistant Météo Vestimentaire",
+  "description": "Recommandation quotidienne intelligente de tenues pour toute la famille (enfants, bébés, parents) selon la météo de demain, les trajets d'école et les journées de travail.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
