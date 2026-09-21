@@ -27,8 +27,9 @@ Suis ces étapes pour exécuter le projet localement :
 Cloner le dépôt :
 
 Bash
-git clone https://github.com/ton-nom-utilisateur/nom-du-repo.git
-cd nom-du-repo
+git clone https://github.com/grouquette/AssistantVestimentaire.git
+cd AssistantVestimentaire
+
 Installer les dépendances :
 
 Bash
@@ -37,6 +38,7 @@ Lancer l'application en mode développement :
 
 Bash
 npm run dev
+
 💡 Utilisation
 Gère tes profils : Ajoute les membres de ton foyer en renseignant leur âge, leur genre et leur sensibilité au froid (frilosité).
 
